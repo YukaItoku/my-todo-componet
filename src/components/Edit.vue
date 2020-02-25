@@ -22,7 +22,7 @@ export default {
     },
     editing: {
       type: Boolean,
-      required: true
+      required: true,
     },
   },
   methods: {
